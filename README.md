@@ -1,4 +1,4 @@
 learningmachine
 ===============
 
-neural network, genetic algorithmic
+it's just a test for masterize git...
